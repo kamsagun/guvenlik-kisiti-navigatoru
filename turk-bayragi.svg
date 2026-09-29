@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 800" role="img" aria-labelledby="title">
+  <title id="title">Türk Bayrağı</title>
+  <rect width="1200" height="800" rx="42" fill="#E30A17"/>
+  <circle cx="510" cy="400" r="200" fill="#fff"/>
+  <circle cx="560" cy="400" r="160" fill="#E30A17"/>
+  <polygon fill="#fff" points="750,315 770,372 831,374 782,410 800,469 750,434 700,469 718,410 669,374 730,372"/>
+</svg>
